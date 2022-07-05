@@ -12,28 +12,26 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
-global.owner = ['+94711502119'] //👈  Enter Your number)
-global.premium = ['+94711502119'] // 👈  Enter Your number)
+global.owner = ['+27783320433'] //👈  Enter Your number)
+global.premium = ['+27783320433'] // 👈  Enter Your number)
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = (`- *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
-*I am a Learning.*
+*THULANI*
+*I am a 15 year old developer...*
+*From South africa 🇿🇦*
+*I am a Learner.*
 *Not more..*
-*Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`)  // 👈 Enter Your details and Social Media Links and Anything
-global.ownernomer = '+94711502119' //👈 Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
+* and I am also still a Student*
+global.ownernomer = '+27783320433' //👈 Enter Your number
+global.ownername = 'THULANI' //👈 Enter Your name
 global.botname = 'ＧＡＲ ＦＩＥＬＤ ＢＯＴ ｖ8.2' //👈 Enter Your Bot name
-global.footer = 'Tharindu Liyanage' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
-global.region = 'India' // 👈 Enter Your country
-global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
-global.myweb = 'https://www.facebook.com/garfieldbots/' // 👈 Enter your Social media link to follow now button
+global.footer = 'THULANI' //👈 Enter Your Name
+global.ig = 'GARFIELD-WHATSAPP-BOT-v8'
+global.region = 'South Africa' // 👈 Enter Your country
+global.sc = 'GARFIELD-WHATSAPP-BOT-v8'
 global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+global.author = 'THULANI DEVELOPMENTS' // 👈 You Can change this your choice 
 global.sessionName = 'session'  // 👈 You Can change this your choice 
 global.prefa = '','!','.'  // 👈 You Can change this your choice 
 global.sp = '✸'  // 👈 You Can change this your choice 
